@@ -1,0 +1,44 @@
+section {
+    // background-color: #e0f7fa;
+    border-radius: 8px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.blue {
+    background-color: #28d6ed;
+    color: white;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.red {
+    background-color: #ffccbc;
+    color: white;
+    transform: scale(1.2);
+}
+
+.dark {
+    background-color: #37474f;
+    color: white;
+}
+
+h3 {
+    margin: 0;
+    font-size: 18px;
+}
+.price {
+    font-size: 32px;
+    margin: 10px 0;
+}
+.info {
+    font-size: 14px;
+    color: #808080;
+}
+// .dark .info {
+//     color: #b0bec5;
+// }
