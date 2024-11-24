@@ -19,7 +19,7 @@ section {
 .red {
     background-color: #ffccbc;
     color: white;
-    transform: scale(1.2);
+    // transform: scale(1.2);
 }
 
 .dark {
@@ -39,6 +39,6 @@ h3 {
     font-size: 14px;
     color: #808080;
 }
-// .dark .info {
-//     color: #b0bec5;
-// }
+.selected{
+    transform: scale(1.2);
+}
